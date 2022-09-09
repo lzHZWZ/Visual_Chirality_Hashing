@@ -1,0 +1,8 @@
+Best val Acc thus far: 0.552711 at epoch    0
+Best val Acc thus far: 0.720884 at epoch    1
+Best val Acc thus far: 0.784639 at epoch    2
+Best val Acc thus far: 0.818775 at epoch    3
+Best val Acc thus far: 0.893072 at epoch    7
+Best val Acc thus far: 0.898092 at epoch    8
+Best val Acc thus far: 0.943273 at epoch   12
+Best val Acc thus far: 0.947791 at epoch   29
